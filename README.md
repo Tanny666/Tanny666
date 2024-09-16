@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://github.com/user-attachments/assets/3361fe7c-d9d0-4d8e-8fa0-47dc74b54a59)
+
+
+<h1 align="center">Hi there, I'm <a href="https://github.com/Tanny666" target="_blank">Tanny</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> I'm studying to become a testing engineer 🇷🇺</h3>
